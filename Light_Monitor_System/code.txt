@@ -1,0 +1,5 @@
+setChartLibrary('Light_Monitor');
+setChartTitle('Light_Monitor');
+setChartType('lineGraph');
+setAxisName('X-Axis ','Y-axis ');
+plotChart('time_stamp','light');

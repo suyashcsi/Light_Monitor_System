@@ -1,5 +1,5 @@
 setChartLibrary('Google-chart');
 setChartTitle('Google-chart');
-setChartType('lineGraph');
+setChartType('data-Graph');
 setAxisName('X-Axis ','Y-axis ');
 plotChart('time_stamp','light');

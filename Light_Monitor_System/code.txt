@@ -1,5 +1,5 @@
 setChartLibrary('Google-chart');
-setChartTitle('Google-chart');
+setChartTitle('Light_Intensity');
 setChartType('data-Graph');
-setAxisName('X-Axis ','Y-axis ');
+setAxisName('time','light');
 plotChart('time_stamp','light');

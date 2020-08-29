@@ -2,4 +2,5 @@ setChartLibrary('Google-chart');
 setChartTitle('Light_Intensity');
 setChartType('data-Graph');
 setAxisName('time','light');
+setCrosshair(true);
 plotChart('time_stamp','light');
